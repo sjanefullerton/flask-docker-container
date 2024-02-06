@@ -1,2 +1,2 @@
 # flask-docker-container
-Flask in a Docker Container
+Developing a dockerized flask app.
